@@ -3,7 +3,7 @@ from telebot import types
 import os
 import sqlite3
 
-bot_token = 'TELEGRAM_TOKEN' #From BotFather in Telegram
+bot_token = '7862415709:AAEwR-lK7h5SGdqcfYJwLt7V3xZ7lpBiVO0' #From BotFather in Telegram
 bot = telebot.TeleBot(bot_token)
 
 user_info = {}
